@@ -1,5 +1,5 @@
 # Provides an API for talking to HD44780 compatible character LCDs.
-# https://github.com/dhylands/python_lcd/tree/master/lcd
+#https://github.com/ozmaro/git-pycharm-ugb/blob/3970095f5b703cc3cd36ba2ddc15513db32c7c98/lcd_api.py
 import time
 
 class LcdApi:
